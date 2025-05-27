@@ -7,3 +7,8 @@ Tinker_EDAmpi.py - the parallel release of the Tinker-EDA program, it requires t
 
 
 **Changes to some of the anglep parameters will be requires for analyze to be able to run.
+
+
+
+
+![QR Code for MauricioMartil/Tinker_EDA](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/MauricioMartil/Tinker_EDA)
